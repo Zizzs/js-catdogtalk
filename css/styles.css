@@ -1,0 +1,49 @@
+.well {
+  position: relative;
+  background-image: url("../img/pumpkins.jpg");
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#dogbutton {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+#catbutton {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+#doggif {
+  margin-left: 10%;
+  margin-right: 10%;
+  display: none;
+  border: 6px black solid;
+  margin-top: 8px;
+}
+
+#kittygif {
+  margin-left: 10%;
+  margin-right: 10%;
+  display: none;
+  border: 6px black solid;
+  margin-top: 8px;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+#header1 {
+  text-align: center;
+  color: orange;
+}
+
+#para {
+  text-align: center;
+  color: orange;
+}
