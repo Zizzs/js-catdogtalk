@@ -1,4 +1,4 @@
-# _Javascript Calculator_
+# _Javascript Cat Dog
 
 #### _A website built to practice basic Javascript and JQuery._
 
