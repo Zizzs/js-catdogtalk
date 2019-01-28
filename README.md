@@ -1,4 +1,4 @@
-# _Javascript Cat Dog
+# _Javascript Cat Dog_
 
 #### _A website built to practice basic Javascript and JQuery._
 
